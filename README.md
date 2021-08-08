@@ -3,7 +3,7 @@
 ---> Download & Try out our Demo - https://github.com/amanpratapsingh9/CPP_Project-Bus_Reservation_System/releases
 
 
-1)
+1) Interface of the User
 ![Bus Reservation System_1](https://user-images.githubusercontent.com/72128002/128635341-80d907e8-8b76-4f84-b34e-ed22a279bf94.jpg)
 
 2)
