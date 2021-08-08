@@ -6,7 +6,7 @@
 1) Interface of the User
 ![Bus Reservation System_1](https://user-images.githubusercontent.com/72128002/128635341-80d907e8-8b76-4f84-b34e-ed22a279bf94.jpg)
 
-2)
+2) Installation of Bus Number, Bus Driver Name, Departure & Arrival time of the Bus and the route(Destination) of the Bus. 
 ![Bus Reservation System_2](https://user-images.githubusercontent.com/72128002/128635348-c5e90330-7937-4f1e-a109-45a81bb103dd.jpg)
 
 3)
