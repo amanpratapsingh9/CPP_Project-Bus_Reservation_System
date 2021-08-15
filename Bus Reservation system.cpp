@@ -179,6 +179,7 @@ void a::avail()
     }
 }
 
+
 int main()
 {
     system("cls");
